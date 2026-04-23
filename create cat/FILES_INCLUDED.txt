@@ -1,0 +1,20 @@
+﻿Page folder: create cat
+Entry: lib\features\create\create_screen_v2.dart
+Copied dart files: 15
+
+Files:
+lib\core\auth\auth_controller.dart
+lib\core\auth\auth_session.dart
+lib\core\config\app_settings.dart
+lib\core\config\nav_visibility_policy.dart
+lib\core\network\api_client.dart
+lib\editor\editable_widget.dart
+lib\editor\editor_controller.dart
+lib\editor\variants\navbar_variants.dart
+lib\features\avatar\animated_cat_avatar.dart
+lib\features\avatar\cat_avatar_constants.dart
+lib\features\avatar\cat_avatar_models.dart
+lib\features\create\create_screen_v2.dart
+lib\features\shared\widgets\nav_primitives.dart
+lib\theme\app_colors.dart
+lib\widgets\bottom_nav.dart
