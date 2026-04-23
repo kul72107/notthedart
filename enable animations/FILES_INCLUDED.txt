@@ -1,0 +1,17 @@
+﻿Page folder: enable animations
+Entry: lib\features\animations\enable_animations_screen.dart
+Copied dart files: 12
+
+Files:
+lib\core\config\nav_visibility_policy.dart
+lib\core\monetization\native_monetization_bridge.dart
+lib\editor\editable_widget.dart
+lib\editor\editor_controller.dart
+lib\editor\variants\background_variants.dart
+lib\editor\variants\navbar_variants.dart
+lib\features\animations\enable_animations_screen.dart
+lib\features\shared\widgets\nav_primitives.dart
+lib\features\shared\widgets\page_gradient.dart
+lib\theme\app_colors.dart
+lib\widgets\action_button.dart
+lib\widgets\bottom_nav.dart

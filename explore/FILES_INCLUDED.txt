@@ -1,0 +1,17 @@
+﻿Page folder: explore
+Entry: lib\features\explore\explore_screen.dart
+Copied dart files: 12
+
+Files:
+lib\core\auth\auth_controller.dart
+lib\core\auth\auth_session.dart
+lib\core\cache\runtime_cache.dart
+lib\core\config\app_settings.dart
+lib\core\network\api_client.dart
+lib\features\avatar\animated_cat_avatar.dart
+lib\features\avatar\cat_avatar_constants.dart
+lib\features\avatar\cat_avatar_models.dart
+lib\features\explore\explore_screen.dart
+lib\features\shared\api\meowverse_api.dart
+lib\features\shared\models.dart
+lib\features\shared\widgets\nav_primitives.dart
